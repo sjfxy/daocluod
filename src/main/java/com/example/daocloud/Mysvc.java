@@ -9,8 +9,8 @@ public class Mysvc {
     public int add(int a , int b){
         return  a + b;
     }
-    public int remove(int a, int b){
-        return  a - b;
-    }
+//    public int remove(int a, int b){
+//        return  a - b;
+//    }
 
 }
