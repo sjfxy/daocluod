@@ -26,5 +26,10 @@ class DaocloudApplicationTests {
 		int res = mysvc.add(11,22);
 		assert res == 33;
 	}
+	@Test
+	public void  removeTest(){
+		int res = mysvc.remove(2,3);
+		assert  res == -1;
+	}
 
 }

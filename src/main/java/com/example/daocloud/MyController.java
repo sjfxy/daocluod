@@ -21,4 +21,9 @@ public class MyController {
     public String add(int a, int b){
         return mysvc.add(a,b) + "";
     }
+    @GetMapping("/orderNnew")
+    public String ce(int a , int b){
+        return  mysvc.add(a,b) + "";
+    }
+
 }
