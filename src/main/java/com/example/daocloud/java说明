@@ -16,7 +16,7 @@ Swoft 的注解开发 @Controller @Service @Listener @Event @Subscribe @OnReques
 @Tranport
 @Code/Encoce
 @Portobuf/Thirrt
-@Client
+@Client22
 @Selector
 @Register
 @Watch
