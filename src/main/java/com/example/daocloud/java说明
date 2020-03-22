@@ -1,0 +1,36 @@
+使用的是springBoot进行代替之前的SpringMvc的模式
+还有需要的一个就是Hibernate-就是数据库存储的部分关系映射模型
+SpringMVC是Web框架被SpringBoot简单的HTTP服务器替代webService服务器替代
+Mybaties/ibati-Hibeernter 只是数据存储部分
+之前的Structs Strictes2 就是Web框架
+
+Swoft 的注解开发 @Controller @Service @Listener @Event @Subscribe @OnRequest
+@OnResponse @OnWorkStart @OnMasterWorkStart @OnManagerProcess
+@OnException
+@OnShutdown
+对信号的处理
+更偏向于微服务的架构方式
+@Broken
+@Service
+@Server
+@Tranport
+@Code/Encoce
+@Portobuf/Thirrt
+@Client
+@Selector
+@Register
+@Watch
+@Broken
+@Traposet
+@Refistrr
+@Slectir
+@Clinet
+@Tranpseoy
+@Web
+@API
+@srv
+@srv
+@dockerfile
+@srv - git - dockefile FROM golang的基镜像 执行golang的对于的测是脚本即可
+@srv 是往对应的去执行的方式
+@，每次就是重新执行 进行build 然后对应的从刚才的环境 去执行即可
